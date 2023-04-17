@@ -1,2 +1,1 @@
-# exercicios_csharp
-Exercícios de C# para curso de Programador de Informática no IEFP
+# Exercícios de C# para curso de Programador de Informática no IEFP (Projeto Créditos e Débitos)
